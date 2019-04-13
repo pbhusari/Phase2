@@ -509,3 +509,5 @@ sql> INSERT INTO PAYMENT (PAYMENTID, INVOICE_INVOICEID, PAYMENTAMOUNT, ACCOUNT_A
 [2019-04-12 21:37:19] 1 row affected in 5 ms
 sql> commit
 [2019-04-12 21:37:19] completed in 5 ms
+sql> commit
+[2019-04-12 21:45:53] completed in 4 ms
